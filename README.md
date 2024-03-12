@@ -42,11 +42,23 @@ This educational project has been developed with the intention of demonstrating 
 
 ### User Stories:
 
+* As a someone who regularly uses the gym, I want to be able to find a cheaper way of having access to the gym without paying for a day at a time.
+
+* As someone who does not exercise alot, I want to find out what facilities are available to me.
+
+* As someone who trains in combat sports, I want to find a new gym to train at.
+
+* As a gym user who is moving away, I want an easy way of cancelling my membership.
+
+* As someone who does not enjoy weight training, I want to find a different way of working out.
+
 ## Color Scheme:
+
+The colors I have chosen match with the real world gyms styling. Not only do I not see a reason to change it; As I will be using images of the gym itself I thought it made sense to keep the theme of the website as close to the interior of the gym as possible.
 
 Below is a grind I have used to check the contrast scores so as to be sure all text remains readable throughout the site, created on hhttps://contrast-grid.eightshapes.com/ .
 
-![Color grid screenshot]()
+![Color grid screenshot](static/readme-assets/colour-grid-ss.png)
 
 * The only color combinations used are those that pass.
 
